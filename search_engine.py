@@ -1,4 +1,4 @@
-#
+#description:
 #lucky_search, that takes as input an index, a ranks
 #dictionary (the result of compute_ranks), and a keyword, and returns the one
 #URL most likely to be the best site for that keyword. If the keyword does not
